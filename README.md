@@ -1,6 +1,6 @@
 ![image](https://github.com/raghadalsaif/FinanceManagmentApp/assets/107502187/ed445e32-362e-4dcf-90c8-7a04db96a157)
 
-# Inearby 
+# Paywise 
 Paywise is a fentech app that helps people to control and manage their money 💰
 
 
