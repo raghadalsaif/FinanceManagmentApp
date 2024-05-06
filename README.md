@@ -1,22 +1,26 @@
 ![image](https://github.com/raghadalsaif/FinanceManagmentApp/assets/107502187/ed445e32-362e-4dcf-90c8-7a04db96a157)
 
 # Inearby 
-Inearby app is in app let you play with your nearby 🎮
+Paywise is a fentech app that helps people to control and manage their money 💰
 
 
 # Solution Concept
 
-##### create an app that transform the tradtional games to in app, aiming to entertain and pass the time by changing the way we play. With Inearby, you will be able to play with people in the same room by simply opening the app!
+##### Paywise is a fentech app that helps people to control and manage their money flow by dividing the income into 3 cards , personal , liability and business card
+
+##### personal card for the personal use
+
+##### liability card for the liabilities as car rent , home rent , schools
+
+##### business card if the user wish to have a business, this card will be locked until you reached the amount to open the business that you want .
 
 
 
 # Technologies & Tools 🛠️
 - SwiftUI
-- Accessibility voice over
-- Localization
-- Multipeer Connectivity
 - Figma
 - Firebase
+- API
 
 # Demo of the App 📹
 
